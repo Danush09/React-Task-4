@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.user-table {
+  border: 1px solid white;
+  width: 80%;
+  margin: 20px auto;
+  background: black;
+  color: white;
+}
+
+th,
+td {
+  padding: 10px;
+}
+
+th {
+  background: #333;
+}
